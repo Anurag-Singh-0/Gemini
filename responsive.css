@@ -35,7 +35,11 @@
     margin-top: 0.5rem;
   }
 
-  .chat-list{
+  .chat-list {
     margin: 0;
+  }
+
+  .message-content{
+    gap: 1.5rem;
   }
 }
